@@ -4,7 +4,7 @@ Language : <br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) : Python <br>
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white) : SQL <br>
 
-IDEs :
+IDEs : <br>
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white) : Visual Studio Code <br>
 ![Google Antigravity](https://img.shields.io/badge/Google_Antigravity-4285F4?style=flat&logo=google&logoColor=white) : Google Antigravity <br>
 
