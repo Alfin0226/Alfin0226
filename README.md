@@ -17,4 +17,4 @@ Social Media: <br>
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Alfin0226&color=blue&style=flat)
-![GitHub followers](https://img.shields.io/github/followers/Alfin0226?label=Followers&style=social)
+![GitHub followers](https://img.shields.io/github/followers/Alfin0226?label=followers&style=social)
